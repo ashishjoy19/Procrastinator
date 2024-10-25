@@ -1,16 +1,15 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Procrastinator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [FutilityCo]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Ashish Joy] 
+
 
 ### Project Description
 [2-3 lines about what your project does]
